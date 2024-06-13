@@ -1,0 +1,12 @@
+.idea
+.vscode
+
+node_modules
+dist
+yarn.lock
+.env
+package-lock.json
+yarn-error.log
+init-mongo.js
+docker-compose.yml
+mongodata
